@@ -1,0 +1,11 @@
+{
+    "name": "openmage/module-wishlist",
+    "description": "Mage_Wishlist module",
+    "authors": [
+        {
+            "name": "Sven Reichel",
+            "email": "github-sr@hotmail.com",
+            "role": "Maintainer"
+        }
+    ]
+}
